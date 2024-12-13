@@ -52,8 +52,8 @@ Telegram的开源双向机器人。避免垃圾信息；让被限制的客户可
 
 ### 2. 获取代码/构建python venv
 ```
-git clone https://github.com/YanSi/Telegram-interactive-bot.git
-cd Telegram-interactive-bot
+git clone https://github.com/yangdunet/telegrambot_2.git
+cd telegrambot_2
 python3 -m venv venv
 . venv/bin/activate
 pip install -r requirements.txt
